@@ -117,6 +117,6 @@ int main()
             	cout<<"wrong option"<<endl;
 
         }
-    } while (ch != 5);
+    } while (ch == 5);
     return 0;
 }
